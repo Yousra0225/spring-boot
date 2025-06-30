@@ -17,3 +17,11 @@ Il est composé de plusieurs **modules** spécialisés :_
 | Spring Data     | Accès aux bases de données (JPA, Mongo, etc.) |
 | Spring Security | Sécurité (authentification, autorisation)     |
 
+## 2. Qu'est-ce que Spring Boot ?
+
+**Spring Boot** est une extension de Spring, une version simplifier qui facilite son utilisation grâce à l'autoconfiguration qu'il offre. Il fournit :
+- de l'**auto-configuration**
+- un **serveur intégré** (comme Tomcat)
+- un système de **"starter"** (pour ajouter facilement des fonctionnalités)
+- la possibilité de **lancer une app en 1 clic** (`main()`)
+
