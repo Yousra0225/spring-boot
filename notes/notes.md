@@ -22,7 +22,7 @@
     - Business : traitement de la rêquete utilisateur.
     - Repository : intéragir avec la bdd :  
         - En écrivant une classe java avec des getters et setters pour échanger avec la bdd.
-        - DTO : mirroir permet de transférer les données entre Entité (classe Java) et la bdd, concrétement il transforme l'entité en requête, et la requête en entité. 
+        - DTO : mirroir permet de transférer les données entre Entité (classe Java) et la bdd, concrétement il transforme l'entité en requête, et la requête en entité. SSR CSR
 
 
 
