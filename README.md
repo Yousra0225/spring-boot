@@ -1,8 +1,19 @@
-# Spring Boot Cheat Sheet
-- [What is Framework](framework)
-- un esemble de classes business et librairies pour faire une tache dont le but est facilité une tache (connexion à une bdd)
-- assure que tout les developpeur travaille de la meme maniére en utilisant et respectant les meme consigne. 
+# Spring Boot CheatSheet
 
-- [What is Spring](framework)
-- le framework java le plus ancien, le plus connus, et le plus utiliser. 
+- [Qu'est-ce que Spring](#1-quest-ce-que-spring-)
+- [Configuration de l'environement de travail]
+- [Création d'un projet Spring Boot]
+- [Structure du projet]
+
+## 1. Qu'est-ce que Spring ?
+
+_C'est un **framework Java** très populaire qui permet de créer des applications robustes, modulaires et testables.  
+Il est composé de plusieurs **modules** spécialisés :_
+
+| Module          | Utilité principale                            |
+| --------------- | --------------------------------------------- |
+| Spring Core     | Injection de dépendances                      |
+| Spring Web      | Développement d'API REST / site web           |
+| Spring Data     | Accès aux bases de données (JPA, Mongo, etc.) |
+| Spring Security | Sécurité (authentification, autorisation)     |
 
