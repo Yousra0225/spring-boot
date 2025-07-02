@@ -36,7 +36,7 @@ mon-projet/
 | ├── `services/`                      | Logique métier (services, traitements)                                |
 | ├── `models/`                        | Entités JPA, classes métier, DTO                                      |
 | └── `repositories/`                  | Interfaces JPA (DAO) avec Spring Data                                 |
-| `src/main/resources/`                | Fichiers de configuration et ressources                               |
+| `src/main/resources/`                | Fichiers de configuration et fichiers non java (js, html..)           |
 | ├── `application.properties/yml`     | Configuration globale (BDD, port, etc.)                               |
 | ├── `static/`                        | Ressources statiques (CSS, JS, images)                                |
 | └── `templates/`                     | Templates HTML (Thymeleaf, etc.)                                      |
